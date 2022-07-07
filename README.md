@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Ozan Çöltekin, I'm studying at Yıldız Technical University. I'm developing on Data Science / Artificial Intelligence and Back-End.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OzanColtekin)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **OzanColtekin/OzanColtekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
